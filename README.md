@@ -21,7 +21,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Configure Roles
 - Configure Departments
-- Configure Teams 
 - Allow Anyone to Create Tickets 
 - Configure Agents 
 - Configure Users
@@ -29,6 +28,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Help Topics 
 
 <h2>Configuration Steps</h2>
+
+<h2>Roles</h2>
 
 <p>
 <img src= https://i.imgur.com/Z5CKOnN.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -38,6 +39,8 @@ To add a new role you must go to the admin panel, then click the "Agents" tab, t
 </p>
 <br />
 
+<h2>Departments</h2>
+
 <p>
 <img src=https://i.imgur.com/7eHwQlJ.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -45,6 +48,8 @@ To add a new role you must go to the admin panel, then click the "Agents" tab, t
 To add a department we will follow many of the same steps we followed for adding a role. we pust be in the admin panel, do to the agents tab, and this time we click on "Departments" from here we can add a new department by clicking "Add New Department" you can then edit the settings of the department nd assign who has access to it. The steps to create a "Team" are the same, only difference is its done from the teams tab  
 </p>
 <br />
+
+<h2>Ticket Creation</h2>
 
 <p>
 <img src="https://i.imgur.com/JVmtoEZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -54,6 +59,8 @@ to make it so that anyone who is a registered user of osTicket is able to make t
 </p>
 <br />
 
+<h2>Agents</h2>
+
 <p>
 <img src="https://i.imgur.com/WIBzsr1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -62,6 +69,8 @@ to make it so that anyone who is a registered user of osTicket is able to make t
 </p>
 <br />
 
+<h2>SLA</h2>
+
 <p>
 <img src="https://i.imgur.com/lFCQaJg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -69,6 +78,8 @@ to make it so that anyone who is a registered user of osTicket is able to make t
 if you would like to add new SLA plans all you have to do is navigate back to the Admin panel, click on the "Manage" tab, and then click on "SLA", then click on "Add New SLA Plaan" and you can configure that plan however you would like.
 </p>
 <br /> 
+
+<h2>Help Topics</h2>
 
 <p>
 <img src="https://i.imgur.com/MeLGuHd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
